@@ -1,7 +1,7 @@
 
 
 (function() {
-  var ASSET = "https://mrcoles.com/media/img/sea-serpent-cutout.png";
+  var ASSET = "https://i.ibb.co/82YkQg1/Screenshot-11.png";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
