@@ -1,7 +1,7 @@
 
 
 (function() {
-  var ASSET = "https://i.ibb.co/82YkQg1/Screenshot-11.png";
+  var ASSET = "https://i.ibb.co/st6TLB9/MELOL.png";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
