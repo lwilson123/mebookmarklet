@@ -4,7 +4,7 @@
 // License: MIT
 
 (function() {
-  var ASSET = "https://im.ezgif.com/tmp/ezgif-1-01ec1ed740.gif";
+  var ASSET = "https://i.ibb.co/xDxSL31/Ezgif-1-01ec1ed740.gif";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
